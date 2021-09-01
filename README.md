@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a PhD student at Swinburne University of Technology
-- ⚡ Interest: Nlp, CyberSecurity, Software vulnerabilities, GNN
+- ⚡ Interest: Nlp, CyberSecurity, Biometrics, Software vulnerabilities, GNN
 
 [![Nastul's github stats](https://github-readme-stats.vercel.app/api?username=Nastul&count_private=true&show_icons=true&theme=radical)](https://github.com/NasTul)
 
