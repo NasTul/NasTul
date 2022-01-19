@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a PhD student at Swinburne University of Technology
+- 🔭 I'm currently a PhD student at Swinburne University of Technology
 - ⚡ Interest: CyberSecurity, Biometrics, NLP, Software Vulnerabilities, GNN
 
 [![Nastul's github stats](https://github-readme-stats.vercel.app/api?username=Nastul&count_private=true&show_icons=true&theme=radical)](https://github.com/NasTul)
