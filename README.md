@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Interest: CyberSecurity, Biometrics, NLP, Software Vulnerabilities, GNN
 - 🌱 I'm currently learning 
 - 😄 Fun fact: Electric Guitarist
-gc.collect()
+- gc.collect()
+
 [![Nastul's github stats](https://github-readme-stats.vercel.app/api?username=Nastul&count_private=true&show_icons=true&theme=radical)](https://github.com/NasTul)
 
