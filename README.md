@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently a PhD student at Swinburne University of Technology
+- 🔭 I'm currently a Research Fellow at RMIT University
 - ⚡ Interest: CyberSecurity, Biometrics, NLP, Software Vulnerabilities, GNN
 - 🌱 I'm currently learning 
 - 😄 Fun fact: Electric Guitarist
