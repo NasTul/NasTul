@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently a Research Fellow at RMIT University
-- ⚡ Interest: CyberSecurity, Biometrics, NLP, Software Vulnerabilities, GNN
+- 🔭 I'm currently a Lecturer in IT (Cybersecurity) at Southern Cross University
+- ⚡ Interest: CyberSecurity, Biometrics, NLP, Software Vulnerabilities, Healthcare
 - 🌱 I'm currently learning 
 - 😄 Fun fact: Electric Guitarist
 - gc.collect()
